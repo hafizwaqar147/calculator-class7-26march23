@@ -1,5 +1,4 @@
 import inquirer from "inquirer";
-import { f } from "../../Nodejs/26march23/second.js";
 
 const calculator1 = await inquirer.prompt([
     {
